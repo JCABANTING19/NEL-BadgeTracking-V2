@@ -1,0 +1,4169 @@
+[
+  {
+    "name": "ABLETIA, ROSE",
+    "empNo": "34293",
+    "dateHired": "2015-10-07",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "ABLETIA, ROSE",
+    "empNo": "34293",
+    "dateHired": "2015-10-07",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-12",
+    "dueDate": "2027-05-13"
+  },
+  {
+    "name": "ABLETIA, ROSE",
+    "empNo": "34293",
+    "dateHired": "2015-10-07",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-07",
+    "dueDate": "2027-04-08"
+  },
+  {
+    "name": "ABLETIA, ROSE",
+    "empNo": "34293",
+    "dateHired": "2015-10-07",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-07",
+    "dueDate": "2027-04-08"
+  },
+  {
+    "name": "ABALLE, JOAN",
+    "empNo": "36986",
+    "dateHired": "2018-08-28",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "ABALLE, JOAN",
+    "empNo": "36986",
+    "dateHired": "2018-08-28",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "ABRIS, JOVIE",
+    "empNo": "17315",
+    "dateHired": "1998-07-28",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "ABUAN, ESTEFENIA",
+    "empNo": "32499",
+    "dateHired": "2011-12-20",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "ABUAN, ESTEFENIA",
+    "empNo": "32499",
+    "dateHired": "2011-12-20",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-04",
+    "dueDate": "2027-03-05"
+  },
+  {
+    "name": "ALIMAGNO, TERESA",
+    "empNo": "19276",
+    "dateHired": "1998-02-07",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "ALIMAGNO, TERESA",
+    "empNo": "19276",
+    "dateHired": "1998-02-07",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-21",
+    "dueDate": "2027-04-22"
+  },
+  {
+    "name": "ALKUINO, HELEN",
+    "empNo": "17125",
+    "dateHired": "1998-01-16",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-10",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "name": "ALKUINO, HELEN",
+    "empNo": "17125",
+    "dateHired": "1998-01-16",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-25",
+    "dueDate": "2026-07-26"
+  },
+  {
+    "name": "AMPARO, MERLE",
+    "empNo": "24727",
+    "dateHired": "2000-06-29",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "AMPARO, MERLE",
+    "empNo": "24727",
+    "dateHired": "2000-06-29",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "AMPARO, MERLE",
+    "empNo": "24727",
+    "dateHired": "2000-06-29",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-11",
+    "dueDate": "2026-07-12"
+  },
+  {
+    "name": "AMPARO, MERLE",
+    "empNo": "24727",
+    "dateHired": "2000-06-29",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "ANDAL, MA.CRISTINA",
+    "empNo": "32497",
+    "dateHired": "2011-12-20",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-12",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "name": "ANDAL, MA.CRISTINA",
+    "empNo": "32497",
+    "dateHired": "2011-12-20",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-12",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "name": "ANDAL, MA.CRISTINA",
+    "empNo": "32497",
+    "dateHired": "2011-12-20",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-29",
+    "dueDate": "2026-09-30"
+  },
+  {
+    "name": "ANDAYA PATRICK",
+    "empNo": "34305",
+    "dateHired": "2015-10-20",
+    "station": "PE/TE UTILITY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "ANDAYA NUITE, MELANIE",
+    "empNo": "36645",
+    "dateHired": "2018-05-31",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-02",
+    "dueDate": "2026-07-03"
+  },
+  {
+    "name": "ANTIQUIERRA, CHEERELYN",
+    "empNo": "37478",
+    "dateHired": "2019-04-22",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "APACIONADO, MARILOU",
+    "empNo": "31015",
+    "dateHired": "2006-07-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "APACIONADO, MARILOU",
+    "empNo": "31015",
+    "dateHired": "2006-07-21",
+    "station": "CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "APACIONADO, MARILOU",
+    "empNo": "31015",
+    "dateHired": "2006-07-21",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-04",
+    "dueDate": "2027-03-05"
+  },
+  {
+    "name": "APACIONADO, MARILOU",
+    "empNo": "31015",
+    "dateHired": "2006-07-21",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-13",
+    "dueDate": "2027-01-14"
+  },
+  {
+    "name": "APACIONADO, MARILOU",
+    "empNo": "31015",
+    "dateHired": "2006-07-21",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-07",
+    "dueDate": "2027-04-08"
+  },
+  {
+    "name": "ARNOSA, EDEN",
+    "empNo": "28080",
+    "dateHired": "2001-03-19",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-10",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "name": "ARNOSA, EDEN",
+    "empNo": "28080",
+    "dateHired": "2001-03-19",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "AZURIN, ANNA MARIE",
+    "empNo": "32525",
+    "dateHired": "2011-12-26",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-05",
+    "dueDate": "2027-04-06"
+  },
+  {
+    "name": "ARROYO, VIVIAN",
+    "empNo": "11930",
+    "dateHired": "1996-08-26",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "BALAGUER, JEAN",
+    "empNo": "36368",
+    "dateHired": "2018-02-21",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-04",
+    "dueDate": "2027-02-05"
+  },
+  {
+    "name": "BALAGUER, JEAN",
+    "empNo": "36368",
+    "dateHired": "2018-02-21",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-29",
+    "dueDate": "2026-09-30"
+  },
+  {
+    "name": "BALAGUER, JEAN",
+    "empNo": "36368",
+    "dateHired": "2018-02-21",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-26",
+    "dueDate": "2027-01-27"
+  },
+  {
+    "name": "BALITAAN, BRENDA",
+    "empNo": "15262",
+    "dateHired": "1996-03-01",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "BALITAAN, BRENDA",
+    "empNo": "15262",
+    "dateHired": "1996-03-01",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "BALITAAN, BRENDA",
+    "empNo": "15262",
+    "dateHired": "1996-03-01",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "BARASHARI, FERNALYN",
+    "empNo": "12855",
+    "dateHired": "1995-11-29",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "BARASHARI, FERNALYN",
+    "empNo": "12855",
+    "dateHired": "1995-11-29",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "BARDON, JOSEVEL",
+    "empNo": "37623",
+    "dateHired": "2019-05-29",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-15",
+    "dueDate": "2027-05-16"
+  },
+  {
+    "name": "BARRERA, ELLEN",
+    "empNo": "17340",
+    "dateHired": "1998-08-04",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "BARZA, EMILY",
+    "empNo": "19781",
+    "dateHired": "1999-08-12",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "BARZA, EMILY",
+    "empNo": "19781",
+    "dateHired": "1999-08-12",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-06",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "name": "BARZA, EMILY",
+    "empNo": "19781",
+    "dateHired": "1999-08-12",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-14",
+    "dueDate": "2027-01-15"
+  },
+  {
+    "name": "BARZA, EMILY",
+    "empNo": "19781",
+    "dateHired": "1999-08-12",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-03",
+    "dueDate": "2026-10-04"
+  },
+  {
+    "name": "BASCRUZ, RHODORA",
+    "empNo": "30369",
+    "dateHired": "2006-01-27",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-09",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "name": "BASCRUZ, RHODORA",
+    "empNo": "30369",
+    "dateHired": "2006-01-27",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "BASCRUZ, RHODORA",
+    "empNo": "30369",
+    "dateHired": "2006-01-27",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-06",
+    "dueDate": "2027-04-07"
+  },
+  {
+    "name": "BELZA, VICLYN",
+    "empNo": "34665",
+    "dateHired": "2016-09-06",
+    "station": "DAMPER PRESS",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-10",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "name": "BELZA, VICLYN",
+    "empNo": "34665",
+    "dateHired": "2016-09-06",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "BELZA, VICLYN",
+    "empNo": "34665",
+    "dateHired": "2016-09-06",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-12",
+    "dueDate": "2027-05-13"
+  },
+  {
+    "name": "BELZA, VICLYN",
+    "empNo": "34665",
+    "dateHired": "2016-09-06",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-12-12",
+    "dueDate": "2026-12-13"
+  },
+  {
+    "name": "BELZA, VICLYN",
+    "empNo": "34665",
+    "dateHired": "2016-09-06",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "BENITEZ, ANNALIZA",
+    "empNo": "17083",
+    "dateHired": "1997-12-16",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "BOBILES, GINA",
+    "empNo": "12648",
+    "dateHired": "1995-11-08",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "BOMALAY, NOIME",
+    "empNo": "039149",
+    "dateHired": "2020-06-26",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "BUBAN, MARY ANN",
+    "empNo": "36469",
+    "dateHired": "2018-04-02",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "BUBAN, MARY ANN",
+    "empNo": "36469",
+    "dateHired": "2018-04-02",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "BUBAN, MARY ANN",
+    "empNo": "36469",
+    "dateHired": "2018-04-02",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "AMOIN BUENAOBRA, LENNIEL",
+    "empNo": "37112",
+    "dateHired": "2018-09-21",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "BUENAOBRA, LENNIEL",
+    "empNo": "37112",
+    "dateHired": "2018-09-21",
+    "station": "SOLDER HEIGHT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-24",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "name": "BUERA, LELIBETH",
+    "empNo": "36271",
+    "dateHired": "2018-01-29",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-04",
+    "dueDate": "2027-03-05"
+  },
+  {
+    "name": "BUERA, LELIBETH",
+    "empNo": "36271",
+    "dateHired": "2018-01-29",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-13",
+    "dueDate": "2027-01-14"
+  },
+  {
+    "name": "CAMACHO, THERESA",
+    "empNo": "24977",
+    "dateHired": "2000-07-14",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "CAMACHO, THERESA",
+    "empNo": "24977",
+    "dateHired": "2000-07-14",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "CAMACHO, THERESA",
+    "empNo": "24977",
+    "dateHired": "2000-07-14",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "CAMACHO, THERESA",
+    "empNo": "24977",
+    "dateHired": "2000-07-14",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "CARANDANG, CRISELDA",
+    "empNo": "18560",
+    "dateHired": "1998-07-02",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "CARINGAL, CRISTY",
+    "empNo": "30362",
+    "dateHired": "2006-01-25",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "CARINGAL, CRISTY",
+    "empNo": "30362",
+    "dateHired": "2006-01-25",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-03",
+    "dueDate": "2027-02-04"
+  },
+  {
+    "name": "CARINGAL, CRISTY",
+    "empNo": "30362",
+    "dateHired": "2006-01-25",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-16",
+    "dueDate": "2027-01-17"
+  },
+  {
+    "name": "CARVAJAL, KC LYN",
+    "empNo": "33659",
+    "dateHired": "2014-04-23",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "CARVAJAL, KC LYN",
+    "empNo": "33659",
+    "dateHired": "2014-04-23",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-06",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "name": "CASTILLO, GINALYN",
+    "empNo": "27284",
+    "dateHired": "2000-12-19",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-08",
+    "dueDate": "2027-01-09"
+  },
+  {
+    "name": "CASTILLO, GINALYN",
+    "empNo": "27284",
+    "dateHired": "2000-12-19",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "CLIMACOSA, MARIFI",
+    "empNo": "29642",
+    "dateHired": "2005-08-10",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-13",
+    "dueDate": "2027-04-14"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-19",
+    "dueDate": "2027-04-20"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-19",
+    "dueDate": "2027-04-20"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-13",
+    "dueDate": "2027-01-14"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "COLANDOG, JOYCE",
+    "empNo": "35563",
+    "dateHired": "2017-06-09",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "COSICO, CATHERINE",
+    "empNo": "12661",
+    "dateHired": "1995-11-08",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "COSICO, CATHERINE",
+    "empNo": "12661",
+    "dateHired": "1995-11-08",
+    "station": "SMT VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "CUSTODIO, RHIAH",
+    "empNo": "18476",
+    "dateHired": "1998-06-29",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "CUSTODIO, RHIAH",
+    "empNo": "18476",
+    "dateHired": "1998-06-29",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-21",
+    "dueDate": "2027-04-22"
+  },
+  {
+    "name": "DETICIO, MARIZ",
+    "empNo": "36903",
+    "dateHired": "2018-07-31",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "DE TORRES, MARICEL",
+    "empNo": "10621",
+    "dateHired": "1995-10-14",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "DE TORRES, MARICEL",
+    "empNo": "10621",
+    "dateHired": "1995-10-14",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-20",
+    "dueDate": "2027-02-21"
+  },
+  {
+    "name": "DE VERA, MARIA EMMA",
+    "empNo": "36490",
+    "dateHired": "2018-04-11",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "TEODORO DE LEON, AIZA",
+    "empNo": "30741",
+    "dateHired": "2006-05-17",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "TEODORO DE LEON, AIZA",
+    "empNo": "30741",
+    "dateHired": "2006-05-17",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "DEL SOCORRO, JUNALYN",
+    "empNo": "33141",
+    "dateHired": "2013-05-23",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "DEL SOCORRO, JUNALYN",
+    "empNo": "33141",
+    "dateHired": "2013-05-23",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-14",
+    "dueDate": "2027-01-15"
+  },
+  {
+    "name": "DELOS SANTOS, ROSEMARIE",
+    "empNo": "36879",
+    "dateHired": "2018-07-23",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-30",
+    "dueDate": "2027-01-31"
+  },
+  {
+    "name": "DELOS SANTOS, ROSEMARIE",
+    "empNo": "36879",
+    "dateHired": "2018-07-23",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-30",
+    "dueDate": "2027-01-31"
+  },
+  {
+    "name": "DELOS SANTOS, ROSEMARIE",
+    "empNo": "36879",
+    "dateHired": "2018-07-23",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "DELOS SANTOS, ROSEMARIE",
+    "empNo": "36879",
+    "dateHired": "2018-07-23",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-30",
+    "dueDate": "2027-01-31"
+  },
+  {
+    "name": "DEMDAM, DAICY",
+    "empNo": "32551",
+    "dateHired": "2012-01-04",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-04",
+    "dueDate": "2027-04-05"
+  },
+  {
+    "name": "DEMDAM, DAICY",
+    "empNo": "32551",
+    "dateHired": "2012-01-04",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-02",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "name": "DEONA, ANA",
+    "empNo": "26703",
+    "dateHired": "2000-01-24",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-28",
+    "dueDate": "2026-11-29"
+  },
+  {
+    "name": "DEONA, ANA",
+    "empNo": "26703",
+    "dateHired": "2000-01-24",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "DEONA, ANA",
+    "empNo": "26703",
+    "dateHired": "2000-01-24",
+    "station": "REWORK/TOUCH-UP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "DESEMBRANA, TESSIE",
+    "empNo": "12653",
+    "dateHired": "1999-11-08",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-07",
+    "dueDate": "2026-09-08"
+  },
+  {
+    "name": "DESEMBRANA, TESSIE",
+    "empNo": "12653",
+    "dateHired": "1999-11-08",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-18",
+    "dueDate": "2026-06-19"
+  },
+  {
+    "name": "DETOSIL, LESLIE",
+    "empNo": "37010",
+    "dateHired": "2018-08-28",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "DIAZ, MIRASOL",
+    "empNo": "36129",
+    "dateHired": "2017-10-02",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "DIAZ, MIRASOL",
+    "empNo": "36129",
+    "dateHired": "2017-10-02",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "DIAZ, MIRASOL",
+    "empNo": "36129",
+    "dateHired": "2017-10-02",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "DIAZ, MIRASOL",
+    "empNo": "36129",
+    "dateHired": "2017-10-02",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-04",
+    "dueDate": "2027-04-05"
+  },
+  {
+    "name": "DIWATA, GINA",
+    "empNo": "29402",
+    "dateHired": "2005-06-08",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "DOLOR, MARY JANE",
+    "empNo": "30096",
+    "dateHired": "2005-11-14",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "DOLOR, MARY JANE",
+    "empNo": "30096",
+    "dateHired": "2005-11-14",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-08",
+    "dueDate": "2027-04-09"
+  },
+  {
+    "name": "ELIPSE, JOBERT",
+    "empNo": "37266",
+    "dateHired": "2018-12-07",
+    "station": "PE/TE UTILITY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-09",
+    "dueDate": "2027-03-10"
+  },
+  {
+    "name": "ENDOZO, GUADA",
+    "empNo": "37323",
+    "dateHired": "2019-01-23",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-29",
+    "dueDate": "2027-01-30"
+  },
+  {
+    "name": "ENORIA, MIA",
+    "empNo": "36752",
+    "dateHired": "2018-06-22",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "ENORIA, MIA",
+    "empNo": "36752",
+    "dateHired": "2018-06-22",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-05",
+    "dueDate": "2027-03-06"
+  },
+  {
+    "name": "ENORIA, MIA",
+    "empNo": "36752",
+    "dateHired": "2018-06-22",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "ESGUERRA, JENICE",
+    "empNo": "19123",
+    "dateHired": "1998-01-17",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-13",
+    "dueDate": "2026-10-14"
+  },
+  {
+    "name": "ESGUERRA, JENICE",
+    "empNo": "19123",
+    "dateHired": "1998-01-17",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "ESGUERRA, KAREN",
+    "empNo": "19026",
+    "dateHired": "1998-01-10",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-16",
+    "dueDate": "2027-02-17"
+  },
+  {
+    "name": "ESGUERRA, KAREN",
+    "empNo": "19026",
+    "dateHired": "1998-01-10",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-16",
+    "dueDate": "2027-04-17"
+  },
+  {
+    "name": "ESGUERRA, HAYDEE",
+    "empNo": "36502",
+    "dateHired": "2018-04-11",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-25",
+    "dueDate": "2026-07-26"
+  },
+  {
+    "name": "ESTREMOS, ANA",
+    "empNo": "18530",
+    "dateHired": "1998-06-29",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-13",
+    "dueDate": "2027-01-14"
+  },
+  {
+    "name": "ESTREMOS, ANA",
+    "empNo": "18530",
+    "dateHired": "1998-06-29",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-29",
+    "dueDate": "2026-10-30"
+  },
+  {
+    "name": "ESTREMOS, ANA",
+    "empNo": "18530",
+    "dateHired": "1998-06-29",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "ESTERNON, CHERRY MAE",
+    "empNo": "35061",
+    "dateHired": "2017-03-21",
+    "station": "SOLDER HEIGHT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-12-11",
+    "dueDate": "2026-12-12"
+  },
+  {
+    "name": "ESTERNON, CHERRY MAE",
+    "empNo": "35061",
+    "dateHired": "2017-03-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "ESTERNON, CHERRY MAE",
+    "empNo": "35061",
+    "dateHired": "2017-03-21",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-18",
+    "dueDate": "2026-06-19"
+  },
+  {
+    "name": "ESTERNON, CHERRY MAE",
+    "empNo": "35061",
+    "dateHired": "2017-03-21",
+    "station": "CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-25",
+    "dueDate": "2027-02-26"
+  },
+  {
+    "name": "EVASCO, CRESALYN",
+    "empNo": "24641",
+    "dateHired": "2000-06-21",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "EVASCO, CRESALYN",
+    "empNo": "24641",
+    "dateHired": "2000-06-21",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-04",
+    "dueDate": "2027-02-05"
+  },
+  {
+    "name": "FAJICULAY, JESSA JOYCE",
+    "empNo": "35063",
+    "dateHired": "2017-03-21",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "FELIX GEMMALEEN",
+    "empNo": "37576",
+    "dateHired": "2019-05-22",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-16",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "name": "FOJAS, MARY ANN",
+    "empNo": "9617",
+    "dateHired": "1995-05-05",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "FOJAS, MARY ANN",
+    "empNo": "9617",
+    "dateHired": "1995-05-05",
+    "station": "CT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-15",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "name": "FOJAS, MARY ANN",
+    "empNo": "9617",
+    "dateHired": "1995-05-05",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "FOJAS, MARY ANN",
+    "empNo": "9617",
+    "dateHired": "1995-05-05",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-16",
+    "dueDate": "2026-06-17"
+  },
+  {
+    "name": "FOJAS, MARY ANN",
+    "empNo": "9617",
+    "dateHired": "1995-05-05",
+    "station": "SERIAL LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-15",
+    "dueDate": "2026-09-16"
+  },
+  {
+    "name": "FUALO, AILYN",
+    "empNo": "36429",
+    "dateHired": "2018-03-14",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-04",
+    "dueDate": "2027-03-05"
+  },
+  {
+    "name": "GERONA, DONNA",
+    "empNo": "24911",
+    "dateHired": "2000-07-06",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "GERONA, DONNA",
+    "empNo": "24911",
+    "dateHired": "2000-07-06",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-29",
+    "dueDate": "2026-09-30"
+  },
+  {
+    "name": "GERONA, DONNA",
+    "empNo": "24911",
+    "dateHired": "2000-07-06",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "GERONA, DONNA",
+    "empNo": "24911",
+    "dateHired": "2000-07-06",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "GONZALES, LEA",
+    "empNo": "12908",
+    "dateHired": "1995-12-01",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-09",
+    "dueDate": "2027-03-10"
+  },
+  {
+    "name": "GONZALES, LEA",
+    "empNo": "12908",
+    "dateHired": "1995-12-01",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-09",
+    "dueDate": "2027-03-10"
+  },
+  {
+    "name": "GRAJO, SHIELA",
+    "empNo": "17174",
+    "dateHired": "1998-06-04",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "GUTIERREZ, LEAH",
+    "empNo": "28362",
+    "dateHired": "2001-04-16",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "HERSON, RIEGO",
+    "empNo": "24478",
+    "dateHired": "2000-06-06",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "HERSON, RIEGO",
+    "empNo": "24478",
+    "dateHired": "2000-06-06",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-16",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "name": "JAVIER, AILEEN",
+    "empNo": "19259",
+    "dateHired": "1998-02-07",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-28",
+    "dueDate": "2026-11-29"
+  },
+  {
+    "name": "JAVIER, REYBELLE",
+    "empNo": "37321",
+    "dateHired": "2019-01-23",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-10",
+    "dueDate": "2026-06-11"
+  },
+  {
+    "name": "JAVIER, REYBELLE",
+    "empNo": "37321",
+    "dateHired": "2019-01-23",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-10",
+    "dueDate": "2026-06-11"
+  },
+  {
+    "name": "JOSEPH , LEAH",
+    "empNo": "30325",
+    "dateHired": "2006-01-17",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-24",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "name": "JOSEPH , LEAH",
+    "empNo": "30325",
+    "dateHired": "2006-01-17",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-24",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "name": "JOVELLANO, AIREN",
+    "empNo": "24380",
+    "dateHired": "2000-05-22",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "JOVELLANO, AIREN",
+    "empNo": "24380",
+    "dateHired": "2000-05-22",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "JOVELLANO, AIREN",
+    "empNo": "24380",
+    "dateHired": "2000-05-22",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "JOVELLANO, AIREN",
+    "empNo": "24380",
+    "dateHired": "2000-05-22",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "CASAÑAS JUARIGUE, JANICE",
+    "empNo": "36494",
+    "dateHired": "2018-04-11",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-12",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "name": "CASAÑAS JUARIGUE, JANICE",
+    "empNo": "36494",
+    "dateHired": "2018-04-11",
+    "station": "TOUCH UP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-12",
+    "dueDate": "2026-09-13"
+  },
+  {
+    "name": "KAMBANG, MARIVEL",
+    "empNo": "9771",
+    "dateHired": "1995-06-03",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-16",
+    "dueDate": "2027-01-17"
+  },
+  {
+    "name": "KAMBANG, MARIVEL",
+    "empNo": "9771",
+    "dateHired": "1995-06-03",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "KAMBANG, MARIVEL",
+    "empNo": "9771",
+    "dateHired": "1995-06-03",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "KAMBANG, MARIVEL",
+    "empNo": "9771",
+    "dateHired": "1995-06-03",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "KAMBANG, MARIVEL",
+    "empNo": "9771",
+    "dateHired": "1995-06-03",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "KAMBANG, MARIVEL",
+    "empNo": "9771",
+    "dateHired": "1995-06-03",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-19",
+    "dueDate": "2027-05-20"
+  },
+  {
+    "name": "LANDICHO, ANNIE",
+    "empNo": "37014",
+    "dateHired": "2018-08-28",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "LANDICHO, JENIFER",
+    "empNo": "12459",
+    "dateHired": "1995-09-21",
+    "station": "CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-16",
+    "dueDate": "2027-01-17"
+  },
+  {
+    "name": "LANDICHO, JENIFER",
+    "empNo": "12459",
+    "dateHired": "1995-09-21",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-19",
+    "dueDate": "2027-02-20"
+  },
+  {
+    "name": "LANDICHO, JENIFER",
+    "empNo": "12459",
+    "dateHired": "1995-09-21",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "LANDICHO, JENIFER",
+    "empNo": "12459",
+    "dateHired": "1995-09-21",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-19",
+    "dueDate": "2027-04-20"
+  },
+  {
+    "name": "LANDICHO, JENIFER",
+    "empNo": "12459",
+    "dateHired": "1995-09-21",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-01",
+    "dueDate": "2026-07-02"
+  },
+  {
+    "name": "LANDICHO, JENIFER",
+    "empNo": "12459",
+    "dateHired": "1995-09-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-02",
+    "dueDate": "2026-07-03"
+  },
+  {
+    "name": "LAYOG, CHERRYL",
+    "empNo": "32508",
+    "dateHired": "2011-12-20",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "LAYOG, CHERRYL",
+    "empNo": "32508",
+    "dateHired": "2011-12-20",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-21",
+    "dueDate": "2027-04-22"
+  },
+  {
+    "name": "LAYOG, CHERRYL",
+    "empNo": "32508",
+    "dateHired": "2011-12-20",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "LEGION, CHARMAINE",
+    "empNo": "33543",
+    "dateHired": "2014-02-05",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "LEGION, CHARMAINE",
+    "empNo": "33543",
+    "dateHired": "2014-02-05",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "LIBRADA, MYRA GRACE",
+    "empNo": "35091",
+    "dateHired": "2017-03-21",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "LIBRADA, MYRA GRACE",
+    "empNo": "35091",
+    "dateHired": "2017-03-21",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "LIM, GLENDA",
+    "empNo": "16682",
+    "dateHired": "1997-11-15",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "LIM, GLENDA",
+    "empNo": "16682",
+    "dateHired": "1997-11-15",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "LIM, GLENDA",
+    "empNo": "16682",
+    "dateHired": "1997-11-15",
+    "station": "X-RAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "LIPARDO, RUBILYN",
+    "empNo": "33296",
+    "dateHired": "2013-07-08",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "LIPARDO, RUBILYN",
+    "empNo": "33296",
+    "dateHired": "2013-07-08",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "LIPARDO, RUBILYN",
+    "empNo": "33296",
+    "dateHired": "2013-07-08",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-11",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "name": "LIPARDO, RUBILYN",
+    "empNo": "33296",
+    "dateHired": "2013-07-08",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "LIPARDO, RUBILYN",
+    "empNo": "33296",
+    "dateHired": "2013-07-08",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-10",
+    "dueDate": "2026-06-11"
+  },
+  {
+    "name": "LIZARDO LORNA",
+    "empNo": "25995",
+    "dateHired": "2000-09-02",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "LLEMOS LIRIO",
+    "empNo": "11945",
+    "dateHired": "1996-09-11",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "MACALINDONG, PEARLY",
+    "empNo": "36994",
+    "dateHired": "2018-08-28",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "MACALINDONG, PEARLY",
+    "empNo": "36994",
+    "dateHired": "2018-08-28",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "MAGADIA, RONALIE",
+    "empNo": "24567",
+    "dateHired": "2000-06-14",
+    "station": "REWORK/TOUCH-UP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-11",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "name": "MAGADIA, RONALIE",
+    "empNo": "24567",
+    "dateHired": "2000-06-14",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "MAGHIRANG, SUSAN",
+    "empNo": "11275",
+    "dateHired": "1995-09-26",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "MAPULA, NEMIA",
+    "empNo": "24409",
+    "dateHired": "2000-05-25",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "MARCELO, PIA",
+    "empNo": "36287",
+    "dateHired": "2018-01-29",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-20",
+    "dueDate": "2027-01-21"
+  },
+  {
+    "name": "MARCELO, PIA",
+    "empNo": "36287",
+    "dateHired": "2018-01-29",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-27",
+    "dueDate": "2027-03-28"
+  },
+  {
+    "name": "MARCELO, PIA",
+    "empNo": "36287",
+    "dateHired": "2018-01-29",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "MARCELO, PIA",
+    "empNo": "36287",
+    "dateHired": "2018-01-29",
+    "station": "DAMPER PRESS",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-21",
+    "dueDate": "2027-01-22"
+  },
+  {
+    "name": "MATIAS, FRANCE",
+    "empNo": "36912",
+    "dateHired": "2018-07-31",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-12",
+    "dueDate": "2027-04-13"
+  },
+  {
+    "name": "MOHON  ROWENA",
+    "empNo": "38172",
+    "dateHired": "2019-09-06",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-16",
+    "dueDate": "2027-01-17"
+  },
+  {
+    "name": "MOHON  ROWENA",
+    "empNo": "38172",
+    "dateHired": "2019-09-06",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-03",
+    "dueDate": "2027-02-04"
+  },
+  {
+    "name": "PERIDA MARVED, ROSIEL",
+    "empNo": "33245",
+    "dateHired": "2013-06-19",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "PERIDA MARVED, ROSIEL",
+    "empNo": "33245",
+    "dateHired": "2013-06-19",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "PERIDA MARVED, ROSIEL",
+    "empNo": "33245",
+    "dateHired": "2013-06-19",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-08-08",
+    "dueDate": "2026-08-09"
+  },
+  {
+    "name": "PERIDA MARVED, ROSIEL",
+    "empNo": "33245",
+    "dateHired": "2013-06-19",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-04",
+    "dueDate": "2027-04-05"
+  },
+  {
+    "name": "PERNECITA, JESUSA",
+    "empNo": "36930",
+    "dateHired": "2018-07-31",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-06",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "name": "MERILO, JEREMIE",
+    "empNo": "33233",
+    "dateHired": "2013-06-19",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "MERILO, JEREMIE",
+    "empNo": "33233",
+    "dateHired": "2013-06-19",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-25",
+    "dueDate": "2026-07-26"
+  },
+  {
+    "name": "MERILO, JEREMIE",
+    "empNo": "33233",
+    "dateHired": "2013-06-19",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-15",
+    "dueDate": "2027-02-16"
+  },
+  {
+    "name": "MENDOZA, ALMA",
+    "empNo": "18516",
+    "dateHired": "1998-06-29",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-05",
+    "dueDate": "2027-05-06"
+  },
+  {
+    "name": "MERCADO, ANA",
+    "empNo": "17339",
+    "dateHired": "1998-08-04",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "MERCADO, ANA",
+    "empNo": "17339",
+    "dateHired": "1998-08-04",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "MERJUDIO, ROWENA",
+    "empNo": "28297",
+    "dateHired": "2001-04-16",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "MILANBILIN , MARISSA",
+    "empNo": "38040",
+    "dateHired": "2019-08-14",
+    "station": "SMT VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "MIRANO, MAYLENE",
+    "empNo": "33262",
+    "dateHired": "2013-06-26",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "MIRANO, MAYLENE",
+    "empNo": "33262",
+    "dateHired": "2013-06-26",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-15",
+    "dueDate": "2027-02-16"
+  },
+  {
+    "name": "MIRANO, MAYLENE",
+    "empNo": "33262",
+    "dateHired": "2013-06-26",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "MIRANO, MAYLENE",
+    "empNo": "33262",
+    "dateHired": "2013-06-26",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-05",
+    "dueDate": "2027-05-06"
+  },
+  {
+    "name": "MOON, VICKY",
+    "empNo": "8291",
+    "dateHired": "1994-04-12",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-07",
+    "dueDate": "2026-10-08"
+  },
+  {
+    "name": "MOON, VICKY",
+    "empNo": "8291",
+    "dateHired": "1994-04-12",
+    "station": "SPA / PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "MORRIS, KAREN",
+    "empNo": "33264",
+    "dateHired": "2013-06-26",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-05",
+    "dueDate": "2027-05-06"
+  },
+  {
+    "name": "MORRIS, KAREN",
+    "empNo": "33264",
+    "dateHired": "2013-06-26",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "MOROTA, ANGELICA",
+    "empNo": "36537",
+    "dateHired": "2018-04-23",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "MOROTA, ANGELICA",
+    "empNo": "36537",
+    "dateHired": "2018-04-23",
+    "station": "XRAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-20",
+    "dueDate": "2027-02-21"
+  },
+  {
+    "name": "MOROTA, ANGELICA",
+    "empNo": "36537",
+    "dateHired": "2018-04-23",
+    "station": "FA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "MOROTA, ANGELICA",
+    "empNo": "36537",
+    "dateHired": "2018-04-23",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-07",
+    "dueDate": "2026-09-08"
+  },
+  {
+    "name": "MOROTA, ANGELICA",
+    "empNo": "36537",
+    "dateHired": "2018-04-23",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-12-12",
+    "dueDate": "2026-12-13"
+  },
+  {
+    "name": "MORRIS, KAREN",
+    "empNo": "33264",
+    "dateHired": "2013-06-26",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-07",
+    "dueDate": "2026-06-08"
+  },
+  {
+    "name": "MOTAS, MARIFE",
+    "empNo": "32519",
+    "dateHired": "2011-12-20",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-07",
+    "dueDate": "2026-10-08"
+  },
+  {
+    "name": "NEO, ENIE",
+    "empNo": "17158",
+    "dateHired": "1998-06-04",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-22",
+    "dueDate": "2027-03-23"
+  },
+  {
+    "name": "OCAMPO, LIARNY",
+    "empNo": "30660",
+    "dateHired": "2006-05-08",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-07",
+    "dueDate": "2026-10-08"
+  },
+  {
+    "name": "OCAMPO, LIARNY",
+    "empNo": "30660",
+    "dateHired": "2006-05-08",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-06",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "name": "OLIVEROS JAZEL",
+    "empNo": "34815",
+    "dateHired": "2017-01-17",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-05",
+    "dueDate": "2027-03-06"
+  },
+  {
+    "name": "OLIVEROS JAZEL",
+    "empNo": "34815",
+    "dateHired": "2017-01-17",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-05-25",
+    "dueDate": "2026-05-26"
+  },
+  {
+    "name": "OMAY, ANAMARIE",
+    "empNo": "36944",
+    "dateHired": "2018-08-07",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "OMAY, ANAMARIE",
+    "empNo": "36944",
+    "dateHired": "2018-08-07",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "OMPOC, MELBA",
+    "empNo": "18872",
+    "dateHired": "1998-08-17",
+    "station": "SPA / PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "OMPOC, MELBA",
+    "empNo": "18872",
+    "dateHired": "1998-08-17",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "OMPOC, MELBA",
+    "empNo": "18872",
+    "dateHired": "1998-08-17",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-15",
+    "dueDate": "2027-03-16"
+  },
+  {
+    "name": "ORDONA, RODESA",
+    "empNo": "35059",
+    "dateHired": "2017-04-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "ORDONA, RODESA",
+    "empNo": "35059",
+    "dateHired": "2017-04-21",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "OROLFO, VICKY",
+    "empNo": "33156",
+    "dateHired": "2013-05-23",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-15",
+    "dueDate": "2027-05-16"
+  },
+  {
+    "name": "OTERO MANALO, JOYLEN",
+    "empNo": "29253",
+    "dateHired": "2004-12-20",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "OTERO MANALO, JOYLEN",
+    "empNo": "29253",
+    "dateHired": "2004-12-20",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "PABIA JOSEPHINE",
+    "empNo": "40503",
+    "dateHired": "2021-11-11",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-15",
+    "dueDate": "2027-05-16"
+  },
+  {
+    "name": "PABIA JOSEPHINE",
+    "empNo": "40503",
+    "dateHired": "2021-11-11",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-03",
+    "dueDate": "2026-06-04"
+  },
+  {
+    "name": "PACHECA, ALMA",
+    "empNo": "17208",
+    "dateHired": "1998-06-09",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-06",
+    "dueDate": "2026-07-07"
+  },
+  {
+    "name": "PACHECA, ALMA",
+    "empNo": "17208",
+    "dateHired": "1998-06-09",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "PALIGAR, SHENALYN ALETA",
+    "empNo": "33854",
+    "dateHired": "2014-11-24",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-08",
+    "dueDate": "2027-01-09"
+  },
+  {
+    "name": "PALIGAR, SHENALYN ALETA",
+    "empNo": "33854",
+    "dateHired": "2014-11-24",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "PALIS, EILEEN",
+    "empNo": "22250",
+    "dateHired": "1999-01-05",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "PALIS, EILEEN",
+    "empNo": "22250",
+    "dateHired": "1999-01-05",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "PALIS, EILEEN",
+    "empNo": "22250",
+    "dateHired": "1999-01-05",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "PALIS, MARY GRACE",
+    "empNo": "33386",
+    "dateHired": "2013-08-27",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-07",
+    "dueDate": "2027-02-08"
+  },
+  {
+    "name": "PALIS, MARY GRACE",
+    "empNo": "33386",
+    "dateHired": "2013-08-27",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-07",
+    "dueDate": "2027-02-08"
+  },
+  {
+    "name": "PALIS, MARY GRACE",
+    "empNo": "33386",
+    "dateHired": "2013-08-27",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-16",
+    "dueDate": "2027-02-17"
+  },
+  {
+    "name": "PALOMARES, IRENE",
+    "empNo": "33632",
+    "dateHired": "2014-03-24",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-06",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "name": "PALOMARES, IRENE",
+    "empNo": "33632",
+    "dateHired": "2014-03-24",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "PALOMARES, IRENE",
+    "empNo": "33632",
+    "dateHired": "2014-03-24",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-05",
+    "dueDate": "2027-03-06"
+  },
+  {
+    "name": "PALOMARES, IRENE",
+    "empNo": "33632",
+    "dateHired": "2014-03-24",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-06",
+    "dueDate": "2026-06-07"
+  },
+  {
+    "name": "PAMITTAN, RIZZA JEAN",
+    "empNo": "36288",
+    "dateHired": "2018-01-29",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "PAMITTAN, RIZZA JEAN",
+    "empNo": "36288",
+    "dateHired": "2018-01-29",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "PAMITTAN, RIZZA JEAN",
+    "empNo": "36288",
+    "dateHired": "2018-01-29",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "PATIGA, BERNADETTE",
+    "empNo": "19310",
+    "dateHired": "1998-02-21",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-04",
+    "dueDate": "2026-10-05"
+  },
+  {
+    "name": "PATIGA, BERNADETTE",
+    "empNo": "19310",
+    "dateHired": "1998-02-21",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-04",
+    "dueDate": "2026-10-05"
+  },
+  {
+    "name": "PELOBELLO, KRYSTEL LYN",
+    "empNo": "33111",
+    "dateHired": "2013-05-15",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "PEÑALES MERLYN",
+    "empNo": "34926",
+    "dateHired": "2017-02-21",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "PEÑALES MERLYN",
+    "empNo": "34926",
+    "dateHired": "2017-02-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "PEREZ, FE",
+    "empNo": "11504",
+    "dateHired": "1995-12-11",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-14",
+    "dueDate": "2027-04-15"
+  },
+  {
+    "name": "PEREZ, FE",
+    "empNo": "11504",
+    "dateHired": "1995-12-11",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-28",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "name": "PEREZ, FE",
+    "empNo": "11504",
+    "dateHired": "1995-12-11",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "PEREZ, FE",
+    "empNo": "11504",
+    "dateHired": "1995-12-11",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-28",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "name": "PERCINITA, MARIABETH",
+    "empNo": "36910",
+    "dateHired": "2018-07-31",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "PERCINITA, MARIABETH",
+    "empNo": "36910",
+    "dateHired": "2018-07-31",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "QUANICO, GERALDINE",
+    "empNo": "37060",
+    "dateHired": "2018-09-07",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "RECONOSE, ROSALINE",
+    "empNo": "36868",
+    "dateHired": "2018-07-23",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-29",
+    "dueDate": "2027-04-30"
+  },
+  {
+    "name": "RECONOSE, ROSALINE",
+    "empNo": "36868",
+    "dateHired": "2018-07-23",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "RECONOSE, ROSALINE",
+    "empNo": "36868",
+    "dateHired": "2018-07-23",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-05",
+    "dueDate": "2027-03-06"
+  },
+  {
+    "name": "RECONOSE, ROSALINE",
+    "empNo": "36868",
+    "dateHired": "2018-07-23",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "REGINIO, MARY JULIE ANN",
+    "empNo": "36246",
+    "dateHired": "2018-01-02",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-10",
+    "dueDate": "2026-10-11"
+  },
+  {
+    "name": "REMIGIO, LERMA",
+    "empNo": "17156",
+    "dateHired": "1998-06-04",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "REYES, NATALIA",
+    "empNo": "32521",
+    "dateHired": "2011-12-20",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "RIVERA, JENNEFER",
+    "empNo": "19531",
+    "dateHired": "1999-03-04",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-11",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "name": "RIVERA, JENNEFER",
+    "empNo": "19531",
+    "dateHired": "1999-03-04",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "SALAZAR, JENILYN",
+    "empNo": "34668",
+    "dateHired": "2016-09-06",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "SALAZAR, JENILYN",
+    "empNo": "34668",
+    "dateHired": "2016-09-06",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-25",
+    "dueDate": "2027-02-26"
+  },
+  {
+    "name": "SALAZAR, JENILYN",
+    "empNo": "34668",
+    "dateHired": "2016-09-06",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "SALAZAR, JENILYN",
+    "empNo": "34668",
+    "dateHired": "2016-09-06",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-16",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "name": "SALOSA, MARISSA",
+    "empNo": "8467",
+    "dateHired": "1994-04-29",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "SAMATRA, LORENA",
+    "empNo": "12464",
+    "dateHired": "1995-09-21",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-16",
+    "dueDate": "2027-01-17"
+  },
+  {
+    "name": "SANCHO, SHARON",
+    "empNo": "37114",
+    "dateHired": "2018-09-21",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-06",
+    "dueDate": "2026-10-07"
+  },
+  {
+    "name": "SANGALANG, MARIANE",
+    "empNo": "24643",
+    "dateHired": "2000-06-21",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "SANGALANG, MARIANE",
+    "empNo": "24643",
+    "dateHired": "2000-06-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "SAPLOT, YOLLY",
+    "empNo": "36445",
+    "dateHired": "2018-03-19",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-16",
+    "dueDate": "2026-06-17"
+  },
+  {
+    "name": "SAURA, RICA",
+    "empNo": "34905",
+    "dateHired": "2017-02-09",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "SILVA , FLORENCIA",
+    "empNo": "24480",
+    "dateHired": "2000-06-06",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "SILVA, SHIRLEY",
+    "empNo": "17113",
+    "dateHired": "2019-01-16",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "TALIBSAO, CLARISSA",
+    "empNo": "34923",
+    "dateHired": "2017-02-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-14",
+    "dueDate": "2026-11-15"
+  },
+  {
+    "name": "TALIBSAO, CLARISSA",
+    "empNo": "34923",
+    "dateHired": "2017-02-21",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "TALIBSAO, CLARISSA",
+    "empNo": "34923",
+    "dateHired": "2017-02-21",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-14",
+    "dueDate": "2026-11-15"
+  },
+  {
+    "name": "TAMARES MARY ANN",
+    "empNo": "39139",
+    "dateHired": "2020-06-26",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "TAMARES MARY ANN",
+    "empNo": "39139",
+    "dateHired": "2020-06-26",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-17",
+    "dueDate": "2027-05-18"
+  },
+  {
+    "name": "TANYANG, JANINE",
+    "empNo": "37040",
+    "dateHired": "2018-09-07",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-07",
+    "dueDate": "2026-06-08"
+  },
+  {
+    "name": "TANYANG, JANINE",
+    "empNo": "37040",
+    "dateHired": "2018-09-07",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-14",
+    "dueDate": "2026-11-15"
+  },
+  {
+    "name": "TANYANG, JANINE",
+    "empNo": "37040",
+    "dateHired": "2018-09-07",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-08",
+    "dueDate": "2027-01-09"
+  },
+  {
+    "name": "TANYANG, JANINE",
+    "empNo": "37040",
+    "dateHired": "2018-09-07",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "TANYANG, JANINE",
+    "empNo": "37040",
+    "dateHired": "2018-09-07",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-04",
+    "dueDate": "2027-04-05"
+  },
+  {
+    "name": "TEMPROSA, GLORILYN",
+    "empNo": "37366",
+    "dateHired": "2019-01-31",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-08",
+    "dueDate": "2027-01-09"
+  },
+  {
+    "name": "TEMPROSA, GLORILYN",
+    "empNo": "37366",
+    "dateHired": "2019-01-31",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-18",
+    "dueDate": "2026-10-19"
+  },
+  {
+    "name": "TEMPROSA, GLORILYN",
+    "empNo": "37366",
+    "dateHired": "2019-01-31",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-18",
+    "dueDate": "2026-10-19"
+  },
+  {
+    "name": "TESORO, LIGAYA",
+    "empNo": "7799",
+    "dateHired": "1994-01-03",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "TOLENTINO, LEANDRA",
+    "empNo": "35882",
+    "dateHired": "2019-08-22",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-22",
+    "dueDate": "2026-11-23"
+  },
+  {
+    "name": "TUIZA, JHONA",
+    "empNo": "17118",
+    "dateHired": "1998-01-16",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-04",
+    "dueDate": "2027-02-05"
+  },
+  {
+    "name": "TUIZA, JHONA",
+    "empNo": "17118",
+    "dateHired": "1998-01-16",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "TUIZA, JHONA",
+    "empNo": "17118",
+    "dateHired": "1998-01-16",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "UMANDAP, MALEN",
+    "empNo": "5084",
+    "dateHired": "1992-03-24",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "UY, FLORIE",
+    "empNo": "37023",
+    "dateHired": "2018-08-28",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-28",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "name": "UY, FLORIE",
+    "empNo": "37023",
+    "dateHired": "2018-08-28",
+    "station": "Washing",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-04",
+    "dueDate": "2027-04-05"
+  },
+  {
+    "name": "UY, FLORIE",
+    "empNo": "37023",
+    "dateHired": "2018-08-28",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "VALENCIA, ANGELICA",
+    "empNo": "36269",
+    "dateHired": "2018-01-29",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-16",
+    "dueDate": "2026-10-17"
+  },
+  {
+    "name": "VALENCIA, ANGELICA",
+    "empNo": "36269",
+    "dateHired": "2018-01-29",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-13",
+    "dueDate": "2026-11-14"
+  },
+  {
+    "name": "VILLAREAL, JENNYANNE",
+    "empNo": "32503",
+    "dateHired": "2011-12-20",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "VILLAREAL, JENNYANNE",
+    "empNo": "32503",
+    "dateHired": "2011-12-20",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-24",
+    "dueDate": "2026-10-25"
+  },
+  {
+    "name": "VILLAREAL, JENNYANNE",
+    "empNo": "32503",
+    "dateHired": "2011-12-20",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-24",
+    "dueDate": "2026-10-25"
+  },
+  {
+    "name": "VILLAREAL, MARK",
+    "empNo": "34895",
+    "dateHired": "2017-02-09",
+    "station": "XRAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "VINLUAN, KATHLEEN",
+    "empNo": "33489",
+    "dateHired": "2013-10-29",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "VINLUAN, KATHLEEN",
+    "empNo": "33489",
+    "dateHired": "2013-10-29",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "VINLUAN, KATHLEEN",
+    "empNo": "33489",
+    "dateHired": "2013-10-29",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "VINLUAN, KATHLEEN",
+    "empNo": "33489",
+    "dateHired": "2013-10-29",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "VINLUAN, KATHLEEN",
+    "empNo": "33489",
+    "dateHired": "2013-10-29",
+    "station": "SOLDER HEIGHT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-14",
+    "dueDate": "2026-06-15"
+  },
+  {
+    "name": "YAMBAO, APRIL",
+    "empNo": "32571",
+    "dateHired": "2012-01-09",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "YAMBAO, APRIL",
+    "empNo": "32571",
+    "dateHired": "2012-01-09",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-05-05",
+    "dueDate": "2026-05-06"
+  },
+  {
+    "name": "YAMBAO, APRIL",
+    "empNo": "32571",
+    "dateHired": "2012-01-09",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-06",
+    "dueDate": "2027-04-07"
+  },
+  {
+    "name": "YUMOL, LUISA",
+    "empNo": "30728",
+    "dateHired": "2006-05-16",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-05",
+    "dueDate": "2027-03-06"
+  },
+  {
+    "name": "YUMOL, LUISA",
+    "empNo": "30728",
+    "dateHired": "2006-05-16",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-15",
+    "dueDate": "2027-03-16"
+  },
+  {
+    "name": "YUMOL, LUISA",
+    "empNo": "30728",
+    "dateHired": "2006-05-16",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-25",
+    "dueDate": "2026-07-26"
+  },
+  {
+    "name": "ZAMORA, JENNY",
+    "empNo": "37078",
+    "dateHired": "2018-09-14",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "VECIDA, JINKY",
+    "empNo": "33921",
+    "dateHired": "2015-02-11",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "VECIDA, JINKY",
+    "empNo": "33921",
+    "dateHired": "2015-02-11",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "MERCADO, MYRA",
+    "empNo": "18898",
+    "dateHired": "1998-08-24",
+    "station": "QCM",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-15",
+    "dueDate": "2027-03-16"
+  },
+  {
+    "name": "BITANGCOL, MARY ANN",
+    "empNo": "15061",
+    "dateHired": "1996-01-15",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "BITANGCOL, MARY ANN",
+    "empNo": "15061",
+    "dateHired": "1996-01-15",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "PUERTOLLANO, JENNY",
+    "empNo": "33303",
+    "dateHired": "2013-07-08",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "PUERTOLLANO, JENNY",
+    "empNo": "33303",
+    "dateHired": "2013-07-08",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "CARIAGA, LUZVIMINDA",
+    "empNo": "9325",
+    "dateHired": "1994-11-17",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "CARIAGA, LUZVIMINDA",
+    "empNo": "9325",
+    "dateHired": "1994-11-17",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "TISBE, LORENA",
+    "empNo": "11135",
+    "dateHired": "1995-08-23",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "TISBE, LORENA",
+    "empNo": "11135",
+    "dateHired": "1995-08-23",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "REMOROZA, BABY LIN",
+    "empNo": "37313",
+    "dateHired": "2019-01-16",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "CLOR, MARISA",
+    "empNo": "19576",
+    "dateHired": "1999-04-20",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-16",
+    "dueDate": "2027-01-17"
+  },
+  {
+    "name": "CLOR, MARISA",
+    "empNo": "19576",
+    "dateHired": "1999-04-20",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "CLOR, MARISA",
+    "empNo": "19576",
+    "dateHired": "1999-04-20",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "CLOR, MARISA",
+    "empNo": "19576",
+    "dateHired": "1999-04-20",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "CLOR, MARISA",
+    "empNo": "19576",
+    "dateHired": "1999-04-20",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-19",
+    "dueDate": "2027-02-20"
+  },
+  {
+    "name": "LEGASPI, EDITHA",
+    "empNo": "34918",
+    "dateHired": "2016-10-05",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-14",
+    "dueDate": "2026-11-15"
+  },
+  {
+    "name": "LEGASPI, EDITHA",
+    "empNo": "34918",
+    "dateHired": "2016-10-05",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-11",
+    "dueDate": "2026-07-12"
+  },
+  {
+    "name": "LEGASPI, EDITHA",
+    "empNo": "34918",
+    "dateHired": "2016-10-05",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-25",
+    "dueDate": "2027-05-26"
+  },
+  {
+    "name": "HERNANDEZ, VIVIAN",
+    "empNo": "11030",
+    "dateHired": "1995-07-27",
+    "station": "QCM",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-15",
+    "dueDate": "2027-03-16"
+  },
+  {
+    "name": "HERNANDEZ, VIVIAN",
+    "empNo": "11030",
+    "dateHired": "1995-07-27",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-04",
+    "dueDate": "2027-02-05"
+  },
+  {
+    "name": "HERNANDEZ, VIVIAN",
+    "empNo": "11030",
+    "dateHired": "1995-07-27",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "ILAO, BRENDALYN",
+    "empNo": "36241",
+    "dateHired": "2018-01-02",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-24",
+    "dueDate": "2026-07-25"
+  },
+  {
+    "name": "ILAO, BRENDALYN",
+    "empNo": "36241",
+    "dateHired": "2018-01-02",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-03",
+    "dueDate": "2027-04-04"
+  },
+  {
+    "name": "ILAO, BRENDALYN",
+    "empNo": "36241",
+    "dateHired": "2018-01-02",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-02",
+    "dueDate": "2026-10-03"
+  },
+  {
+    "name": "FERMANES MELISSA",
+    "empNo": "17172",
+    "dateHired": "1998-06-04",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "FERMANES MELISSA",
+    "empNo": "17172",
+    "dateHired": "1998-06-04",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "LEVOTANO, JOANNA",
+    "empNo": "33165",
+    "dateHired": "2013-05-23",
+    "station": "FVI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "LOPEZ, RIZZALIN",
+    "empNo": "30105",
+    "dateHired": "2005-11-14",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "LOPEZ, RIZZALIN",
+    "empNo": "30105",
+    "dateHired": "2005-11-14",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "LOPEZ, RIZZALIN",
+    "empNo": "30105",
+    "dateHired": "2005-11-14",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "LOPEZ, INEZ",
+    "empNo": "30798",
+    "dateHired": "2006-05-25",
+    "station": "SPA/PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-06",
+    "dueDate": "2027-03-07"
+  },
+  {
+    "name": "LOPEZ, INEZ",
+    "empNo": "30798",
+    "dateHired": "2006-05-25",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-06",
+    "dueDate": "2027-03-07"
+  },
+  {
+    "name": "LOPEZ, INEZ",
+    "empNo": "30798",
+    "dateHired": "2006-05-25",
+    "station": "SPI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-17",
+    "dueDate": "2026-09-18"
+  },
+  {
+    "name": "LOPEZ, INEZ",
+    "empNo": "30798",
+    "dateHired": "2006-05-25",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "CERAFICA, MARY CRIS",
+    "empNo": "34904",
+    "dateHired": "2017-02-09",
+    "station": "FA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-12",
+    "dueDate": "2027-05-13"
+  },
+  {
+    "name": "CERAFICA, MARY CRIS",
+    "empNo": "34904",
+    "dateHired": "2017-02-09",
+    "station": "XRAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-28",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "name": "CERAFICA, MARY CRIS",
+    "empNo": "34904",
+    "dateHired": "2017-02-09",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-28",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "name": "CERAFICA, MARY CRIS",
+    "empNo": "34904",
+    "dateHired": "2017-02-09",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-11-20",
+    "dueDate": "2026-11-21"
+  },
+  {
+    "name": "CERAFICA, MARY CRIS",
+    "empNo": "34904",
+    "dateHired": "2017-02-09",
+    "station": "CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-21",
+    "dueDate": "2027-02-22"
+  },
+  {
+    "name": "CERAFICA, MARY CRIS",
+    "empNo": "34904",
+    "dateHired": "2017-02-09",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-16",
+    "dueDate": "2027-02-17"
+  },
+  {
+    "name": "MIRANO, ARLINDA",
+    "empNo": "27203",
+    "dateHired": "2000-12-01",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-07",
+    "dueDate": "2027-02-08"
+  },
+  {
+    "name": "MIRANO, ARLINDA",
+    "empNo": "27203",
+    "dateHired": "2000-12-01",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-16",
+    "dueDate": "2027-02-17"
+  },
+  {
+    "name": "REVANO, LOURDES",
+    "empNo": "12423",
+    "dateHired": "1995-09-21",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-15",
+    "dueDate": "2026-09-16"
+  },
+  {
+    "name": "REVANO, LOURDES",
+    "empNo": "12423",
+    "dateHired": "1995-09-21",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-13",
+    "dueDate": "2027-01-14"
+  },
+  {
+    "name": "REVANO, LOURDES",
+    "empNo": "12423",
+    "dateHired": "1995-09-21",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-05",
+    "dueDate": "2027-04-06"
+  },
+  {
+    "name": "REVANO, LOURDES",
+    "empNo": "12423",
+    "dateHired": "1995-09-21",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-07",
+    "dueDate": "2027-02-08"
+  },
+  {
+    "name": "REVANO, LOURDES",
+    "empNo": "12423",
+    "dateHired": "1995-09-21",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-07",
+    "dueDate": "2026-09-08"
+  },
+  {
+    "name": "LIGSON, CHARLENE",
+    "empNo": "33100",
+    "dateHired": "2013-05-13",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-16",
+    "dueDate": "2027-04-17"
+  },
+  {
+    "name": "LIGSON, CHARLENE",
+    "empNo": "33100",
+    "dateHired": "2013-05-13",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "LIGSON, CHARLENE",
+    "empNo": "33100",
+    "dateHired": "2013-05-13",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-16",
+    "dueDate": "2027-04-17"
+  },
+  {
+    "name": "LAGMAY, ELMIRA",
+    "empNo": "33142",
+    "dateHired": "2013-05-23",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-12",
+    "dueDate": "2027-05-13"
+  },
+  {
+    "name": "LAGMAY, ELMIRA",
+    "empNo": "33142",
+    "dateHired": "2013-05-23",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-24",
+    "dueDate": "2026-10-25"
+  },
+  {
+    "name": "LAGMAY, ELMIRA",
+    "empNo": "33142",
+    "dateHired": "2013-05-23",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "LAGMAY, ELMIRA",
+    "empNo": "33142",
+    "dateHired": "2013-05-23",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-24",
+    "dueDate": "2026-10-25"
+  },
+  {
+    "name": "LAGMAY, ELMIRA",
+    "empNo": "33142",
+    "dateHired": "2013-05-23",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-21",
+    "dueDate": "2027-04-22"
+  },
+  {
+    "name": "LAGMAY, ELMIRA",
+    "empNo": "33142",
+    "dateHired": "2013-05-23",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "ESTRADA, VILMA",
+    "empNo": "33061",
+    "dateHired": "2013-05-06",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-11",
+    "dueDate": "2027-02-12"
+  },
+  {
+    "name": "ESTRADA, VILMA",
+    "empNo": "33061",
+    "dateHired": "2013-05-06",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-16",
+    "dueDate": "2027-04-17"
+  },
+  {
+    "name": "NIEVES, LICEL",
+    "empNo": "33866",
+    "dateHired": "2015-01-21",
+    "station": "SOLDER HEIGHT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-14",
+    "dueDate": "2026-06-15"
+  },
+  {
+    "name": "NIEVES, LICEL",
+    "empNo": "33866",
+    "dateHired": "2015-01-21",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-12",
+    "dueDate": "2027-04-13"
+  },
+  {
+    "name": "NIEVES, LICEL",
+    "empNo": "33866",
+    "dateHired": "2015-01-21",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-16",
+    "dueDate": "2027-04-17"
+  },
+  {
+    "name": "NIEVES, LICEL",
+    "empNo": "33866",
+    "dateHired": "2015-01-21",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-12",
+    "dueDate": "2027-04-13"
+  },
+  {
+    "name": "NIEVES, LICEL",
+    "empNo": "33866",
+    "dateHired": "2015-01-21",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-12-12",
+    "dueDate": "2026-12-13"
+  },
+  {
+    "name": "MONTEROSO, MARICAR",
+    "empNo": "33242",
+    "dateHired": "2013-06-19",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "MONTEROSO, MARICAR",
+    "empNo": "33242",
+    "dateHired": "2013-06-19",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-23",
+    "dueDate": "2026-06-24"
+  },
+  {
+    "name": "MONTEROSO, MARICAR",
+    "empNo": "33242",
+    "dateHired": "2013-06-19",
+    "station": "WASHING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-20",
+    "dueDate": "2027-02-21"
+  },
+  {
+    "name": "MONTEROSO, MARICAR",
+    "empNo": "33242",
+    "dateHired": "2013-06-19",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-23",
+    "dueDate": "2027-02-24"
+  },
+  {
+    "name": "MONTEROSO, MARICAR",
+    "empNo": "33242",
+    "dateHired": "2013-06-19",
+    "station": "TRAY CLEANING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "MIRANDA GLORIA",
+    "empNo": "17103",
+    "dateHired": "1998-01-16",
+    "station": "SPA / PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "MIRANDA, LERMA",
+    "empNo": "12258",
+    "dateHired": "1995-09-13",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "MIRANDA, LERMA",
+    "empNo": "12258",
+    "dateHired": "1995-09-13",
+    "station": "LABEL PRINTING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-29",
+    "dueDate": "2027-04-30"
+  },
+  {
+    "name": "MIRANDA, LERMA",
+    "empNo": "12258",
+    "dateHired": "1995-09-13",
+    "station": "PACKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-18",
+    "dueDate": "2027-04-19"
+  },
+  {
+    "name": "ESCALONA, JONAS MARVIN",
+    "empNo": "37477",
+    "dateHired": "2019-04-22",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-07",
+    "dueDate": "2027-05-08"
+  },
+  {
+    "name": "ESCALONA, JONAS MARVIN",
+    "empNo": "37477",
+    "dateHired": "2019-04-22",
+    "station": "XRAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "SULISA, ZYLLAH",
+    "empNo": "36508",
+    "dateHired": "2018-04-11",
+    "station": "SPA / PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-26",
+    "dueDate": "2026-07-27"
+  },
+  {
+    "name": "SULISA, ZYLLAH",
+    "empNo": "36508",
+    "dateHired": "2018-04-11",
+    "station": "XRAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-26",
+    "dueDate": "2026-07-27"
+  },
+  {
+    "name": "NARTIA, RYAN",
+    "empNo": "36753",
+    "dateHired": "2018-06-22",
+    "station": "XRAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-15",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "name": "NARTIA, RYAN",
+    "empNo": "36753",
+    "dateHired": "2018-06-22",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-15",
+    "dueDate": "2026-06-16"
+  },
+  {
+    "name": "NARTIA, RYAN",
+    "empNo": "36753",
+    "dateHired": "2018-06-22",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-24",
+    "dueDate": "2027-03-25"
+  },
+  {
+    "name": "NARTIA, RYAN",
+    "empNo": "36753",
+    "dateHired": "2018-06-22",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-24",
+    "dueDate": "2026-07-25"
+  },
+  {
+    "name": "NARTIA, RYAN",
+    "empNo": "36753",
+    "dateHired": "2018-06-22",
+    "station": "SPA / PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-12",
+    "dueDate": "2027-01-13"
+  },
+  {
+    "name": "SECRETARIO, LINETH",
+    "empNo": "33937",
+    "dateHired": "2016-02-25",
+    "station": "REWORK/TOUCH-UP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-11",
+    "dueDate": "2026-06-12"
+  },
+  {
+    "name": "SECRETARIO, LINETH",
+    "empNo": "33937",
+    "dateHired": "2016-02-25",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-10",
+    "dueDate": "2026-09-11"
+  },
+  {
+    "name": "SECRETARIO, LINETH",
+    "empNo": "33937",
+    "dateHired": "2016-02-25",
+    "station": "SMT-VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "ABANSADO, JONA",
+    "empNo": "24531",
+    "dateHired": "2000-06-08",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "ABANSADO, JONA",
+    "empNo": "24531",
+    "dateHired": "2000-06-08",
+    "station": "GROUP MARKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-21",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "name": "ABANSADO, JONA",
+    "empNo": "24531",
+    "dateHired": "2000-06-08",
+    "station": "PARTS PREP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-04",
+    "dueDate": "2027-05-05"
+  },
+  {
+    "name": "RAMOS, BELINDA",
+    "empNo": "29614",
+    "dateHired": "2005-07-26",
+    "station": "CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-06",
+    "dueDate": "2026-07-07"
+  },
+  {
+    "name": "RAMOS, BELINDA",
+    "empNo": "29614",
+    "dateHired": "2005-07-26",
+    "station": "ENCAP",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-13",
+    "dueDate": "2027-04-14"
+  },
+  {
+    "name": "RAMOS, BELINDA",
+    "empNo": "29614",
+    "dateHired": "2005-07-26",
+    "station": "DAMPER ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-04",
+    "dueDate": "2026-07-05"
+  },
+  {
+    "name": "RAMOS, BELINDA",
+    "empNo": "29614",
+    "dateHired": "2005-07-26",
+    "station": "LABEL ATTACH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-06",
+    "dueDate": "2026-07-07"
+  },
+  {
+    "name": "RAMOS, BELINDA",
+    "empNo": "29614",
+    "dateHired": "2005-07-26",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-11",
+    "dueDate": "2026-07-12"
+  },
+  {
+    "name": "MIRABITE, LIEZL JOY",
+    "empNo": "39171",
+    "dateHired": "2020-07-01",
+    "station": "SOLDER HEIGHT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-06-24",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "name": "MIRABITE, LIEZL JOY",
+    "empNo": "39171",
+    "dateHired": "2020-07-01",
+    "station": "CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "MIRABITE, LIEZL JOY",
+    "empNo": "39171",
+    "dateHired": "2020-07-01",
+    "station": "DAMPER PUSH",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-21",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "name": "MIRABITE, LIEZL JOY",
+    "empNo": "39171",
+    "dateHired": "2020-07-01",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-05-08",
+    "dueDate": "2027-05-09"
+  },
+  {
+    "name": "DELA CRUZ, ANNABEL",
+    "empNo": "39163",
+    "dateHired": "2020-07-01",
+    "station": "SMT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-25",
+    "dueDate": "2026-07-26"
+  },
+  {
+    "name": "DELA CRUZ, ANNABEL",
+    "empNo": "39163",
+    "dateHired": "2020-07-01",
+    "station": "SPA / PALLETIZING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-09-03",
+    "dueDate": "2026-09-04"
+  },
+  {
+    "name": "LOPEZ AILENE",
+    "empNo": "39912",
+    "dateHired": "2021-05-21",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-25",
+    "dueDate": "2027-03-26"
+  },
+  {
+    "name": "LOPEZ AILENE",
+    "empNo": "39912",
+    "dateHired": "2021-05-21",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "LOPEZ AILENE",
+    "empNo": "39912",
+    "dateHired": "2021-05-21",
+    "station": "QCM",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-08-02",
+    "dueDate": "2026-08-03"
+  },
+  {
+    "name": "VILLARMIL CRISTIN A",
+    "empNo": "33181",
+    "dateHired": "2013-05-29",
+    "station": "CT/CT98",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "VILLARMIL, CRISTINA",
+    "empNo": "33181",
+    "dateHired": "2013-05-29",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-03",
+    "dueDate": "2026-07-04"
+  },
+  {
+    "name": "MACAMAY PAMELA JOYCE",
+    "empNo": "40157",
+    "dateHired": "2021-09-02",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-12-14",
+    "dueDate": "2026-12-15"
+  },
+  {
+    "name": "MACAMAY PAMELA JOYCE",
+    "empNo": "40157",
+    "dateHired": "2021-09-02",
+    "station": "X-RAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-05",
+    "dueDate": "2027-02-06"
+  },
+  {
+    "name": "BENIEGAS JONNABEL",
+    "empNo": "41893",
+    "dateHired": "2022-09-06",
+    "station": "QCM",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-01-10",
+    "dueDate": "2027-01-11"
+  },
+  {
+    "name": "JIMENEZ JERRY",
+    "empNo": "42457",
+    "dateHired": "2023-02-01",
+    "station": "X-RAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-01",
+    "dueDate": "2027-02-02"
+  },
+  {
+    "name": "JIMENEZ JERRY",
+    "empNo": "42457",
+    "dateHired": "2023-02-01",
+    "station": "POST BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-06",
+    "dueDate": "2027-03-07"
+  },
+  {
+    "name": "MARY CRIS CERAFICA",
+    "empNo": "34904",
+    "dateHired": "2017-09-02",
+    "station": "SOLDER HEIGHT",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-07-29",
+    "dueDate": "2026-07-30"
+  },
+  {
+    "name": "PIGAR S. MARICEL",
+    "empNo": "35704",
+    "dateHired": "2017-07-14",
+    "station": "OQA",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-27",
+    "dueDate": "2027-02-28"
+  },
+  {
+    "name": "PIGAR S. MARICEL",
+    "empNo": "35704",
+    "dateHired": "2017-07-14",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "OSORIO REINIEL",
+    "empNo": "42765",
+    "dateHired": "2023-04-12",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-06",
+    "dueDate": "2027-02-07"
+  },
+  {
+    "name": "SAGALA JOHN MICHAEL",
+    "empNo": "43358",
+    "dateHired": "2024-03-15",
+    "station": "X-RAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-24",
+    "dueDate": "2027-03-25"
+  },
+  {
+    "name": "SAGALA JOHN MICHAEL",
+    "empNo": "43358",
+    "dateHired": "2024-03-15",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2025-10-28",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "name": "CASTILLO MERRY GRACE",
+    "empNo": "43338",
+    "dateHired": "2024-03-12",
+    "station": "SMT VI",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-19",
+    "dueDate": "2027-03-20"
+  },
+  {
+    "name": "CARVAJAL, KC LYN",
+    "empNo": "33659",
+    "dateHired": "2014-04-23",
+    "station": "FLEX BAKING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-05",
+    "dueDate": "2027-03-06"
+  },
+  {
+    "name": "MATIENZO MARIDEL",
+    "empNo": "12644",
+    "dateHired": "1995-11-08",
+    "station": "LABEL SCANNING",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-02-18",
+    "dueDate": "2027-02-19"
+  },
+  {
+    "name": "TAN M. ROSEL",
+    "empNo": "NCIEI-00321",
+    "dateHired": "2025-06-26",
+    "station": "OQC",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-03-21",
+    "dueDate": "2027-03-22"
+  },
+  {
+    "name": "LIZARDO MICHAEL",
+    "empNo": "28182",
+    "dateHired": "2001-03-23",
+    "station": "X-RAY",
+    "Labor Type": "Direct Labor",
+    "dateQualified": "2026-04-14",
+    "dueDate": "2027-04-15"
+  }
+]
